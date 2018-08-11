@@ -1,0 +1,36 @@
+group 'com.vlavik'
+version '1.0-SNAPSHOT'
+
+buildscript {
+    ext {
+        springBootVersion = '1.5.10.RELEASE'
+    }
+    repositories {
+        mavenCentral()
+        maven {
+            url "https://plugins.gradle.org/m2/"
+        }
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+    }
+}
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+apply plugin: 'java'
+apply plugin: 'org.springframework.boot'
+
+dependencies {
+    compile 'org.springframework.boot:spring-boot-starter-security'
+
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+clean.doFirst {
+    delete "${rootDir}\\out"
+    println "delete ${rootDir}\\out"
+}

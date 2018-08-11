@@ -1,3 +1,4 @@
 rootProject.name = 'bct'
 
-includeBuild 'configuration-service'
+include 'configuration-service'
+include 'city-service'
