@@ -1,5 +1,21 @@
-# Compiled class file
+# Gradle
+.gradle/
+gradle/
+gradlew.bat
+gradle.sh
+gradlew
+gradle/
+
+# Compiled class
 *.class
+
+# Compile results
+build/
+out/
+
+# IDEA
+.idea/
+*.iml
 
 # Log file
 *.log
