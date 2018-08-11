@@ -20,6 +20,8 @@ public class City {
     @Id
     private Long id;
 
+    private String cityName;
+
     private CitySummary summary;
 
     private RestaurantPrices restaurantPrices;
