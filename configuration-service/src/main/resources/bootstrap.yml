@@ -2,13 +2,13 @@ spring:
   application:
     name: configuration-service
   profiles:
-    active: native
+    active: # native
   cloud:
     config:
       server:
         bootstrap: true
         git:
-          uri: https://github.com/vlavik007/BookCityTrip/tree/dev/bct-configs
+          uri: https://github.com/vlavik007/bct-configs.git
           searchPaths: /*/config
           default-label: dev
         native:
