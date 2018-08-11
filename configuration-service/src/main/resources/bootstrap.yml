@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: configuration-service
+  profiles:
+    active:
+  cloud:
+    config:
+      server:
+        bootstrap: true
+        git:
+          uri:
+        native:
+          search-locations: classpath:/configurations
+
+server:
+  port: ${CONFIGURATION_SERVICE_PORT:8888}
