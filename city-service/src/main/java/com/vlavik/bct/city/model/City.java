@@ -1,30 +1,27 @@
 package com.vlavik.bct.city.model;
 
-import com.vlavik.bct.city.model.prices.MarketsPrices;
+import com.vlavik.bct.city.model.prices.MarketPrices;
 import com.vlavik.bct.city.model.prices.RestaurantPrices;
 import com.vlavik.bct.city.model.prices.TransportationPrices;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
-import lombok.RequiredArgsConstructor;
+import lombok.*;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 @Data
 @NoArgsConstructor
-@RequiredArgsConstructor
+@AllArgsConstructor
 @Builder
 @Document(collection = "cities")
 public class City {
 
     @Id
-    private Long id;
+    private String id;
 
     private String cityName;
 
     private CitySummary summary;
 
     private RestaurantPrices restaurantPrices;
-    private MarketsPrices marketsPrices;
+    private MarketPrices marketPrices;
     private TransportationPrices transportationPrices;
 }

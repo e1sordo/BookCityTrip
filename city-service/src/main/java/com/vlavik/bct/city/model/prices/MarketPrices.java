@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class MarketsPrices {
+public class MarketPrices {
 
     private Item milk;
     private Item bread;
