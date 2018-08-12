@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "5b700672a4a7b74715fef32b",
+    "cityName": "Katakana",
+    "summary": {
+      "country": "Russia",
+      "population": 6344327,
+      "imageUrl": "http://www.saint-petersburg.com/images/248x200/river-trips-st-petersburg.jpg"
+    },
+    "restaurantPrices": {
+      "inexpensiveRestaurant": {
+        "name": "Callahan",
+        "description": "Consectetur veniam tempor nulla do cillum magna nostrud cillum reprehenderit. Aliqua irure in do excepteur ea non et laboris veniam tempor enim do aliquip. Aliquip esse culpa aute id. Veniam id id culpa consequat aliqua aute fugiat pariatur sint et cillum aliquip. Laborum dolore proident excepteur in ullamco aute. Adipisicing aute velit pariatur sunt pariatur veniam enim. Id ex labore deserunt excepteur amet laboris Lorem in dolor adipisicing ad.",
+        "prices": {
+          "minimum": 40,
+          "normal": 71,
+          "maximum": 116
+        }
+      }
+    }
+  },
+  {
+    "_id": "5b700672e9e7fde1012f59cc",
+    "cityName": "Marketoid",
+    "summary": {
+      "country": "Spain",
+      "population": 6870764,
+      "imageUrl": "http://www.saint-petersburg.com/images/248x200/river-trips-st-petersburg.jpg"
+    },
+    "restaurantPrices": {
+      "inexpensiveRestaurant": {
+        "name": "Gretchen",
+        "description": "Ipsum culpa elit fugiat reprehenderit velit. Nostrud qui laboris minim officia reprehenderit Lorem non. Sunt mollit tempor non nostrud. Dolor est mollit sunt consectetur irure do aute nisi minim dolore.",
+        "prices": {
+          "minimum": 25,
+          "normal": 62,
+          "maximum": 106
+        }
+      }
+    }
+  },
+  {
+    "_id": "5b7006721e670884152cd473",
+    "cityName": "Kog",
+    "summary": {
+      "country": "Spain",
+      "population": 4508398,
+      "imageUrl": "http://www.saint-petersburg.com/images/248x200/river-trips-st-petersburg.jpg"
+    },
+    "restaurantPrices": {
+      "inexpensiveRestaurant": {
+        "name": "Henson",
+        "description": "Ipsum proident nisi incididunt reprehenderit mollit ad Lorem exercitation ut dolore deserunt officia. Nostrud deserunt consectetur occaecat irure. Sint ad ad minim qui reprehenderit voluptate Lorem veniam sint deserunt eu nulla nostrud elit. Tempor pariatur sit incididunt fugiat id eiusmod est id. Dolor minim ex ipsum proident nisi et. Consectetur quis elit eu dolor velit pariatur adipisicing anim magna eiusmod. Sint do aliquip sunt veniam est qui dolor culpa sit velit ad eiusmod nulla laboris.",
+        "prices": {
+          "minimum": 40,
+          "normal": 70,
+          "maximum": 115
+        }
+      }
+    }
+  },
+  {
+    "_id": "5b7006720cec715daae0795c",
+    "cityName": "Hinway",
+    "summary": {
+      "country": "Spain",
+      "population": 5873251,
+      "imageUrl": "http://www.saint-petersburg.com/images/248x200/river-trips-st-petersburg.jpg"
+    },
+    "restaurantPrices": {
+      "inexpensiveRestaurant": {
+        "name": "Duncan",
+        "description": "Culpa mollit culpa aute nostrud ut consequat. Consequat ad ullamco ullamco incididunt consectetur ex enim ea officia sint veniam aliqua sit. Enim do laborum sit elit. Sint aliquip do adipisicing qui dolore laboris amet anim labore officia eiusmod nisi.",
+        "prices": {
+          "minimum": 20,
+          "normal": 80,
+          "maximum": 129
+        }
+      }
+    }
+  },
+  {
+    "_id": "5b7006722872c55691447699",
+    "cityName": "Zaggles",
+    "summary": {
+      "country": "Spain",
+      "population": 8910734,
+      "imageUrl": "http://www.saint-petersburg.com/images/248x200/river-trips-st-petersburg.jpg"
+    },
+    "restaurantPrices": {
+      "inexpensiveRestaurant": {
+        "name": "Jean",
+        "description": "Deserunt sit reprehenderit proident proident nulla aute adipisicing amet duis. Et laborum excepteur labore ex qui tempor eiusmod dolor non. Enim et ea reprehenderit ullamco pariatur fugiat aliquip laboris. Do eu esse anim exercitation ut et culpa aliquip velit velit. Consequat nulla eu ut dolor proident amet reprehenderit voluptate consectetur enim est. Consectetur nulla anim proident ut quis laborum ullamco.",
+        "prices": {
+          "minimum": 27,
+          "normal": 79,
+          "maximum": 110
+        }
+      }
+    }
+  },
+  {
+    "_id": "5b70067243f8660f7065e803",
+    "cityName": "Zenthall",
+    "summary": {
+      "country": "Spain",
+      "population": 6856430,
+      "imageUrl": "http://www.saint-petersburg.com/images/248x200/river-trips-st-petersburg.jpg"
+    },
+    "restaurantPrices": {
+      "inexpensiveRestaurant": {
+        "name": "Figueroa",
+        "description": "Est non exercitation ex sit dolore irure qui dolor irure ut voluptate reprehenderit culpa. Ullamco dolor velit amet ad est sint. Ea laboris laboris do voluptate proident ea adipisicing occaecat deserunt elit consequat veniam eu et. Cupidatat Lorem amet sunt deserunt. Enim pariatur sunt voluptate veniam dolore. Officia esse tempor pariatur eiusmod occaecat deserunt culpa nisi dolore in laboris. Consequat labore aliqua do Lorem dolore esse mollit dolor in et aute minim voluptate deserunt.",
+        "prices": {
+          "minimum": 29,
+          "normal": 77,
+          "maximum": 122
+        }
+      }
+    }
+  },
+  {
+    "_id": "5b70067242c6b66a441533d2",
+    "cityName": "Minga",
+    "summary": {
+      "country": "Spain",
+      "population": 8700260,
+      "imageUrl": "http://www.saint-petersburg.com/images/248x200/river-trips-st-petersburg.jpg"
+    },
+    "restaurantPrices": {
+      "inexpensiveRestaurant": {
+        "name": "Cathy",
+        "description": "Excepteur cupidatat velit aliqua nostrud do proident sint esse aliqua enim. Fugiat excepteur ullamco aute culpa exercitation aute cillum adipisicing. Aute officia quis eu aliquip anim magna eu non magna Lorem aute commodo eu magna. Cillum dolore deserunt culpa nulla commodo nulla aliqua ut occaecat incididunt amet amet labore. Esse labore qui ea cillum do dolore nisi aute pariatur cupidatat. Duis ut commodo adipisicing dolore ut aliqua sint nisi officia elit elit. Et dolore aute cupidatat ipsum id nulla.",
+        "prices": {
+          "minimum": 39,
+          "normal": 78,
+          "maximum": 118
+        }
+      }
+    }
+  },
+  {
+    "_id": "5b70067267c5d98a0fd3aa3c",
+    "cityName": "Zolavo",
+    "summary": {
+      "country": "Italy",
+      "population": 6673365,
+      "imageUrl": "http://www.saint-petersburg.com/images/248x200/river-trips-st-petersburg.jpg"
+    },
+    "restaurantPrices": {
+      "inexpensiveRestaurant": {
+        "name": "Rios",
+        "description": "Veniam do incididunt ut dolor aute elit et. Excepteur anim veniam pariatur in do velit nostrud nostrud ea esse duis sunt aute. Est eiusmod ex duis deserunt enim reprehenderit fugiat excepteur tempor duis officia proident sit enim. Officia fugiat aute aliqua veniam dolore. Labore deserunt commodo ad ut est aute velit ullamco proident. Fugiat dolor sit adipisicing occaecat nostrud reprehenderit irure sunt elit ut sint. Reprehenderit tempor esse adipisicing laborum minim commodo aute anim officia elit magna enim excepteur magna.",
+        "prices": {
+          "minimum": 21,
+          "normal": 61,
+          "maximum": 107
+        }
+      }
+    }
+  },
+  {
+    "_id": "5b7006725059992945d8e4fe",
+    "cityName": "Xsports",
+    "summary": {
+      "country": "Italy",
+      "population": 7703047,
+      "imageUrl": "http://www.saint-petersburg.com/images/248x200/river-trips-st-petersburg.jpg"
+    },
+    "restaurantPrices": {
+      "inexpensiveRestaurant": {
+        "name": "Lucia",
+        "description": "Deserunt magna ex magna nulla officia cupidatat occaecat eu minim cupidatat. Dolore minim do anim laboris qui. Veniam Lorem Lorem veniam enim qui consequat ipsum est pariatur. Nostrud mollit sint Lorem veniam elit. Irure ea ea id cillum cillum reprehenderit anim do. Cillum sunt commodo dolor voluptate aliqua enim Lorem ut dolore Lorem. Enim eu exercitation dolor amet labore occaecat aliqua esse aliquip ex ullamco.",
+        "prices": {
+          "minimum": 29,
+          "normal": 71,
+          "maximum": 124
+        }
+      }
+    }
+  },
+  {
+    "_id": "5b7006726f75f4e59896ea69",
+    "cityName": "Firewax",
+    "summary": {
+      "country": "Italy",
+      "population": 5879663,
+      "imageUrl": "http://www.saint-petersburg.com/images/248x200/river-trips-st-petersburg.jpg"
+    },
+    "restaurantPrices": {
+      "inexpensiveRestaurant": {
+        "name": "Christie",
+        "description": "Est esse ullamco consectetur ut consequat consectetur sit eiusmod eiusmod qui. Nulla qui tempor nostrud aliquip ex non quis aliqua exercitation. Id in dolor excepteur irure dolor excepteur. Consectetur nisi cillum magna labore ea magna. Aliquip reprehenderit laboris enim cupidatat dolore est ex est ut. Quis dolore id nisi aute cupidatat et elit quis laboris officia adipisicing. Mollit exercitation excepteur ut adipisicing.",
+        "prices": {
+          "minimum": 28,
+          "normal": 72,
+          "maximum": 123
+        }
+      }
+    }
+  }
+]
