@@ -2,3 +2,6 @@ rootProject.name = 'bct'
 
 include 'configuration-service'
 include 'city-service'
+include 'gateway-service'
+include 'auth-service'
+
